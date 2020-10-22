@@ -1,0 +1,19 @@
+{
+  "name": "stackbot",
+  "version": "1.0.0",
+  "description": "a simple discord bot to search through stack overflow by error code",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node ./src/index.js"
+  },
+  "author": "brainstew927",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brainstew927/StackBot.git"
+  }
+}
